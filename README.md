@@ -7,7 +7,7 @@ Introduction:
 
 Skills I have learned:
 
-1. how to make html stracture using diffrent element susch as headings and paragraphs and etc. 
+1. how to make html stracture using different element susch as headings and paragraphs and etc. 
 2. created pages and linked them all into main webpage index
 3. how to add images using a element 
 4. learned to use unorderd and orderd lists 
