@@ -1,0 +1,54 @@
+body{
+background-color: rgb(245, 233, 225);
+color:rgb(68, 68, 68);
+
+}
+
+.heading, .para, .list{
+    text-align: center;
+
+}
+.heading{
+    font-family: 'Oswald', sans-serif;
+}
+
+img{
+display: block;
+width:600px;
+height: auto;
+margin: auto;
+
+}
+
+.para{
+    font: bold 20px "Raleway", sans-serif;
+}
+
+
+
+.list li {
+  
+    outline: none;
+    text-decoration: none;
+    list-style-type: none;
+    padding:2px 1px 0;
+    text-align-last: center;
+    margin: 10px;
+    font-size: 15px;
+
+}
+
+
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  } 
+
+ 
