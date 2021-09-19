@@ -1,14 +1,23 @@
 
 Introduction:
 
-- In this project, I have build a basic recipe website.
+- In this project, I have build a basic recipe website using html and then styling it by CSS. 
 
-- The website will consist of a main index page which will have links to a few recipes. 
 
 Skills I have learned:
 
-1. how to make html stracture using differents element susch as headings and paragraphs and etc. 
-2. created pages and linked them all into main webpage index
-3. how to add images using a element 
-4. learned to use unorderd and orderd lists 
-5. used git and github to set up my respository and commiting my changes and pushing them into github for everyone to view. 
+Part one: HTML 
+
+1. How to make html structure using different elements such as headings and paragraphs and etc.
+2. Created pages and linked them all in home page
+3. How to add images using a element a. 
+4. Learned to use unorderd and orderd lists 
+5. Used git and github to set up my respository and commiting my changes and pushing them into github for everyone to view. 
+
+Part two: Styling using CSS 
+
+1. Add classes and id to select elements for styling 
+2. Learned how to center images and lists 
+3. Learned how to import fonts from google fonts 
+4. Learned how to link a single css style sheet with all the webpages. 
+5. Learned about how to style links and remove bullets and added custom style to it. 
